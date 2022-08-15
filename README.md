@@ -7,7 +7,6 @@ Sometimes when clients looking for properties often the just go to an office tha
 So it's platform provides a service for properties office to Display their properties to their clients smoothly Easily with pictures, required details and possible Communication methods for offices in an online ways. That does not require you to have a specific time, can Access it anywhere and 
 Anytime through your device.
 
-
 ## Objectives of the project
 <ul>
 <li>Reducing the number of offices</li>
@@ -25,12 +24,19 @@ Anytime through your device.
 <img src="https://c.top4top.io/p_24185qs2f1.png">
 
 ## Interfaces
+<img src="https://c.top4top.io/p_2418iogmx2.png">
+<img src="https://d.top4top.io/p_2418uzj673.png">
+<img src="https://e.top4top.io/p_2418htl6v4.png">
+<img src="https://f.top4top.io/p_2418yyikc5.png">
+<img src="https://g.top4top.io/p_2418npc1l6.png">
 
 ## Used tech
 
 <p align="center">
 <img src="https://f.top4top.io/p_2418c59vp1.png">
 </p>
+<br>
+<p>note : project need a improvement , so feel free to download it 😁</p>
 
 ## References
 PHP – www.php.net
