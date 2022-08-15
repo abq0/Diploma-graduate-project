@@ -2,7 +2,11 @@
 
 ## About the project
 
-Sometimes when clients looking for properties often the just go to an office that’s provide a list of many properties for example ( houses , lands , buildings , etc … ) and pick one then finish the deal with the owner , but sometimes when they are looking for a properties, they face some issues like there’s no close offices or it’s closed or it can’t serve the clients needs, so for that problem ,we've built this application to reach many offices and properties as possible.
+Sometimes when clients looking for properties often the just go to an office that’s provide a list of many properties for example ( houses , lands , etc … ) and pick one then finish the deal with the owner , but sometimes when they are looking for a properties, they face some issues like there’s no nearby offices or it’s closed or it can’t serve client's needs, so for that problem ,we've built this application to reach many offices and properties as possible.
+
+So it's platform provides a service for properties office to Display their properties to their clients smoothly Easily with pictures, required details and possible Communication methods for offices in an online ways. That does not require you to have a specific time, can Access it anywhere and 
+Anytime through your device.
+
 
 ## Objectives of the project
 <ul>
@@ -16,14 +20,8 @@ Sometimes when clients looking for properties often the just go to an office tha
 
 ## Used tech
 
-<p align="left">
-<a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="100"></a>
-<br>
-<a href="https://www.mysql.com/"><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="100"></a>
-<br>
-<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png" width="100"></a>
-<br>
-<a href="https://laravel-livewire.com/"><img src="https://f.top4top.io/p_2418vcsfs1.png" width="150"></a>
+<p align="center">
+<img src="https://f.top4top.io/p_2418c59vp1.png">
 </p>
 
 ## References
@@ -34,4 +32,3 @@ MySQL – www.mysql.com
 Laravel – www.Laravel.com
 <br>
 Livewire – www.laravel-livewire.com
-
