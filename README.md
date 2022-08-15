@@ -1,6 +1,6 @@
 <p align="center"><img src="https://b.top4top.io/p_2418d9dxg1.png" width="150"></a></p>
 
-<br><p>project need a improvement , so feel free to download it 😁 , sql file included as well</p>
+<br><p>project need improvement , so feel free to download it 😁 , sql file included as well</p>
 <p>admin@admin.com:123 << admin account</p>
 
 
