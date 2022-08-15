@@ -17,6 +17,14 @@ Anytime through your device.
 <li>Reduce offices cost</li>
 </ul>
 
+<hr>
+
+<h3>In depth look</h3>
+
+## Database structure
+<img src="https://c.top4top.io/p_24185qs2f1.png">
+
+## Interfaces
 
 ## Used tech
 
