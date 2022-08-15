@@ -49,4 +49,4 @@ Laravel – www.Laravel.com
 <br>
 Livewire – www.laravel-livewire.com
 
-<h4>note : project built within arabic language :) , so sorry if there's no support for any other langauge</h4>
+<h4>note : project built within arabic language :) , so sorry if there's no support for any other languages</h4>
