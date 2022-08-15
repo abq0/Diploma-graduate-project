@@ -26,7 +26,7 @@ Anytime through your device.
 ## Database structure
 <img src="https://c.top4top.io/p_24185qs2f1.png">
 
-## Interfaces
+## Interfaces - not all
 <img src="https://c.top4top.io/p_2418iogmx2.png">
 <img src="https://d.top4top.io/p_2418uzj673.png">
 <img src="https://e.top4top.io/p_2418htl6v4.png">
