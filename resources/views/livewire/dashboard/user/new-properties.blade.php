@@ -355,7 +355,7 @@
         <script src="{{asset('assets/js/lib/Leaflet-map/mapbox-options.js')}}"></script>
         <script src="{{asset('assets/js/lib/Leaflet-map/leaflet.js')}}"></script>
         <script>
-            mapboxgl.accessToken = 'pk.eyJ1IjoiYXBxMCIsImEiOiJjbDFxZnZrd3kwbmFhM2VtdW5ubnMwc2d3In0.RsJW434tIdiVen3WGI6c0Q';
+            mapboxgl.accessToken = '';
             const map = new mapboxgl.Map({
                 container: 'map',
                 style: 'mapbox://styles/mapbox/streets-v11',
